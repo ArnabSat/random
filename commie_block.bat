@@ -1,7 +1,7 @@
 @echo off
 set hostspath=%windir%\System32\drivers\etc\hosts
-# C:\Windows\System32\drivers\etc\hosts
 
+# Check Admin
 :: BatchGotAdmin
 :-------------------------------------
 REM  --> Check for permissions
